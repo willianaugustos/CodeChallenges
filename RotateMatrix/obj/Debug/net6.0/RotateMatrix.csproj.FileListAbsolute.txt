@@ -1,0 +1,16 @@
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/RotateMatrix
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/RotateMatrix.deps.json
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/RotateMatrix.runtimeconfig.json
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/RotateMatrix.dll
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/ref/RotateMatrix.dll
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/bin/Debug/net6.0/RotateMatrix.pdb
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.GlobalUsings.g.cs
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.csproj.AssemblyReference.cache
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.AssemblyInfoInputs.cache
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.AssemblyInfo.cs
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.dll
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/ref/RotateMatrix.dll
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.pdb
+/Users/willian/Projetos/CodeChallenges/RotateMatrix/obj/Debug/net6.0/RotateMatrix.genruntimeconfig.cache
