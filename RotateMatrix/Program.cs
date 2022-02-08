@@ -20,7 +20,8 @@ namespace RotateMatrix
             new List<int>() {1, 2, 3, 4},
             new List<int>() {5, 6, 7, 8},
             new List<int>() {9, 10, 11, 12},
-            new List<int>() {13, 14, 15, 16}
+            new List<int>() {13, 14, 15, 16},
+            new List<int>() {17, 18, 19, 20}
         };
 
             ShowMatrix(matrix);
@@ -68,10 +69,10 @@ namespace RotateMatrix
                 while (!stop)
                 {
                     var rectangle = new Corners( 
-                            new Corner(_topLeftLine, _topLeftColumn), 
-                            new Corner(_topRightLine, _topRightColumn), 
-                            new Corner(_bottomLeftLine, _bottomLeftColumn), 
-                            new Corner(_bottomRightLine, _bottomRightColumn));
+                            new Corner(y: _topLeftLine, x: _topLeftColumn), 
+                            new Corner(y: _bottomLeftLine, x: _bottomLeftColumn), 
+                            new Corner(y: _topRightLine, x: _topRightColumn), 
+                            new Corner(y: _bottomRightLine, x: _bottomRightColumn));
                     rectangles.Add(rectangle);
 
                     _topLeftLine++;
@@ -86,29 +87,33 @@ namespace RotateMatrix
                     _bottomRightLine--;
                     _bottomRightColumn--;
 
+                    var stopByLines = false;
+                    var stopByColumns = false;
+
                     //check if lines meet and then stop the loop
                     if (_bottomLeftLine <= _topLeftLine)
-                        stop=true;
+                        stopByLines=true;
 
                     if (_bottomRightColumn <= _bottomLeftColumn)
-                        stop = true;
+                        stopByColumns = true;
 
+                    stop = stopByLines && stopByColumns;
                 }
 
 
                 //rotate "r" times
                 for (int r = 0; r < numberOfRotations; r++)
                 {
-                
+                    
                    foreach(var rectangle in rectangles)   
                    {
                        Console.WriteLine($"Encontrei um retangulo começando em :{rectangle.topLeft.x},{rectangle.topLeft.y}, começando a rotacionar...");
                        var saveTopLeft = matrix[rectangle.topLeft.x][rectangle.topLeft.y];
 
                        //move first line from right to left
-                       for (int position=rectangle.topLeft.x; position <= rectangle.topRight.x -1; position++)
+                       for (int position_a=rectangle.topLeft.x; position_a <= rectangle.topRight.x -1; position_a++)
                        {
-                            matrix[rectangle.topLeft.y][position] = matrix[rectangle.topLeft.y][position+1];
+                            matrix[rectangle.topLeft.y][position_a] = matrix[rectangle.topLeft.y][position_a+1];
                        }
 
                        //move last column bottom to top
