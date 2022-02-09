@@ -1,0 +1,16 @@
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/DiskSpaceAnalysis
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/DiskSpaceAnalysis.deps.json
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/DiskSpaceAnalysis.runtimeconfig.json
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/DiskSpaceAnalysis.dll
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/ref/DiskSpaceAnalysis.dll
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/bin/Debug/net6.0/DiskSpaceAnalysis.pdb
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.GlobalUsings.g.cs
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.csproj.AssemblyReference.cache
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.AssemblyInfoInputs.cache
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.AssemblyInfo.cs
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.dll
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/ref/DiskSpaceAnalysis.dll
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.pdb
+/Users/willian/Projetos/CodeChallenges/DiskSpaceAnalysis/obj/Debug/net6.0/DiskSpaceAnalysis.genruntimeconfig.cache
